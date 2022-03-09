@@ -1,5 +1,8 @@
 {
-  "name": "booking-form",
+  "name": "@zacbe/template-react-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/zacbe"
+  },
   "version": "0.0.1",
   "description": "booking-form",
   "private": true,
